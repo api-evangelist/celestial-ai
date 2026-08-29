@@ -12,6 +12,9 @@ description: 'Celestial AI was a Santa Clara, California silicon-photonics compa
   was semiconductor hardware and IP sold to hyperscalers and accelerator vendors, not software,
   and it never published a developer program, public API, SDK, or machine-readable API contract.'
 url: https://raw.githubusercontent.com/api-evangelist/celestial-ai/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Its product was semiconductor hardware and IP sold to hyperscalers and accelerator vendors, not software, and it never published a developer program, public API, SDK, or machine-readable API contract."
 x-type: company
 x-source: harvest:secondary-market
 x-harvest-listing: https://forgeglobal.com/celestial-ai_stock/
